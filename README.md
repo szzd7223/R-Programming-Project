@@ -14,7 +14,7 @@ This is a Shiny web application for tracking expenses. It provides a dashboard t
 
    Clone this repository to your local machine using:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/szzd7223/R-Programming-Project.git
    ```
 
 2. **Install R Packages**
